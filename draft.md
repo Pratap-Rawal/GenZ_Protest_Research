@@ -29,11 +29,19 @@ This study addresses this gap by conducting a comparative media framing analysis
 - To analyze how police action and protestor behavior are portrayed
 - To assess whether media narratives differ in tone and emphasis
 
-### 4. Research Questions
+### Research Questions
 RQ1: What are the dominant frames used in media coverage of the protests?  
 RQ2: How do Nepali media and international media differ in framing?  
 RQ3: Do media reports emphasize protestor violence or state repression?  
 RQ4: What tone (positive, negative, neutral) dominates coverage?  
+
+### Expected Findings    
+You may find:  
+Nepali media → more “law & order” framing  
+International media → more “state repression” framing  
+Tone differences across outlets 
+
+This study expects that media coverage of the Gen Z protests in Nepal will differ across national and international outlets. It is likely that Nepali media will emphasize law and order concerns, while international media may focus more on state repression and protestor rights. Differences in tone and framing are also expected, reflecting varying institutional and political contexts.
 
 ## Conceptual Framework  
 ### Conceptual frame
@@ -51,11 +59,7 @@ Key scholar: Robert Entman
 **Agenda-Setting Theory (optional add-on)**
 *Media influences what people think about*
 
-### Expected Findings (You can adjust later)  
-You may find:  
-Nepali media → more “law & order” framing  
-International media → more “state repression” framing  
-Tone differences across outlets 
+
 
 ## Significance  
 This study contributes to:  
