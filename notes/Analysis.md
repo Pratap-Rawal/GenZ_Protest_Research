@@ -112,3 +112,44 @@ Article 1 → Event
 Article 2 → Death
 Article 3 → Scale of death
 Article 4 → Forensic evidence
+
+
+
+
+### Python file Analysis
+WHAT THIS CODE DOES (SIMPLE)
+Loads your CSV
+Prints your data
+Counts:
+Frames
+Tone
+Violence
+Shows relationships
+
+#### crosstab FRAME vs VIOLENCE
+STEP 1: Insight:
+Framing is directly linked to who is portrayed as responsible for violence
+
+STEP 2: INTERPRETATION (VERY IMPORTANT)
+
+👉 When media uses:
+🔹 Law & Order frame:
+Protestors are the problem
+State action appears justified
+🔹 State Repression frame:
+Police/state is responsible
+Protestors appear as victims
+
+👉 Conclusion: Media Framing is not neutral-- it shapes how responsibility for violence is assigned.
+
+🧠 STEP 3: WHY THIS IS POWERFUL
+
+You now have:
+
+✔ Qualitative reasoning
+✔ Quantitative support
+✔ Clear causal narrative
+
+
+---
+

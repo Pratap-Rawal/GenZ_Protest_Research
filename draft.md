@@ -134,11 +134,17 @@ The analysis of media coverage reveals a clear shift in framing as events unfold
 
 As the situation intensified, the focus moved away from protestor actions toward the role of the state, particularly in terms of use of force. Later reporting further deepened this narrative by incorporating forensic evidence, indicating a transition from descriptive reporting to investigative and accountability-oriented journalism.
 
+### Frame and Attribution of Violence
+
+The analysis reveals a clear relationship between media framing and attribution of violence. Articles framed within a law-and-order perspective emphasize protestor violence, portraying protestors as the primary source of disorder. In contrast, articles framed in terms of state repression consistently highlight police violence, shifting responsibility toward state actors.
+
+This suggests that framing plays a crucial role in shaping public perception of accountability, influencing whether protestors or the state are seen as responsible for the escalation of violence.
+
 ## Discussions  
 
 ## Limitations
-Subjectivity in coding
-Limited sample size
-Media bias
+*Subjectivity in coding, Limited sample size, Media bias*
+
+However, these findings are based on a small sample of articles and should be interpreted cautiously. Further data collection is needed to validate the observed patterns.
 
 ## Conclusions
