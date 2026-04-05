@@ -107,3 +107,20 @@ Even though curfew is imposed by the adminstration, youth continue to protest at
 - Violence -> Emphasis on police violence. (Violence of police is described including the use of excessive force, casualities, and prior events.)
 
 ---
+
+## Article 7 - OnlineKhabar 
+source: 
+https://english.onlinekhabar.com/gen-z-takes-to-the-streets.html
+
+**Headline:** Gen Z takes to the streets against corruption, mismanagement, and social media ban (Photo Feature)
+
+**Summary:** 
+The inclusion of this article introduces a democratic rights frame, which emphasizes the legitimacy and peaceful nature of the protests. Unlike previous articles focused on conflict and violence, this coverage highlights protestors' intentions, social support, and civic responsibility, suggesting that media narratives can also construct protests as legitimate democratic expressions.
+
+**My Coding Reasoning:** 
+- Tone -> Positive (peaceful protest, legitimacy, support) 
+- Frame -> Democratic Rights frame (Protest is seen as legitimate, civil behavior emphasied and shows approval of others in society.) 
+- Focus -> Protestors (Focus on their motivation, their behaviour, their identity) 
+- Violence -> None (Specifically speaks about protestors committed to responsible behavior, absence of violence.)
+
+---

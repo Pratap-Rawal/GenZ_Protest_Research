@@ -1,7 +1,10 @@
-id,source,link,tone,frame,focus,violence
-1,The Kathmandu Post,https://kathmandupost.com/national/2025/09/08/gen-z-protesters-break-restricted-area-in-new-baneshwar-police-use-teargas-water-cannons,Neutral,Law & Order,Protestors,Protestor violence
-2,The Kathmandu Post,https://kathmandupost.com/national/2025/09/08/one-dead-as-police-open-fire-during-gen-z-protest-in-new-baneshwar,Neutral,State Repression,Protestors,Police violence
-3,The Kathmandu Post,https://kathmandupost.com/national/2025/09/08/14-killed-as-police-open-fire-on-gen-z-protest-in-baneshwar,Neutral,State Repression,Protestors,Police violence
-4,The Kathmandu Post,https://kathmandupost.com/national/2025/10/28/forensic-report-shows-most-protesters-shot-above-the-waist-during-september-clashes,Neutral,State Repression,Government,Police violence
-5,The Kathmandu Post,https://kathmandupost.com/national/2025/09/09/gen-z-protests-against-corruption-and-social-media-ban-spread-across-country,Neutral,Law & Order,Both,Both
-6,The Kathmandu Post,https://kathmandupost.com/national/2025/09/09/youths-continue-protests-defying-curfew-orders,Neutral,State Repression,Government,Police violence
+id,source,source_type,link,tone,frame,focus,violence
+1,The Kathmandu Post,National,https://kathmandupost.com/national/2025/09/08/gen-z-protesters-break-restricted-area-in-new-baneshwar-police-use-teargas-water-cannons,Neutral,Law & Order,Protestors,Protestor violence
+2,The Kathmandu Post,National,https://kathmandupost.com/national/2025/09/08/one-dead-as-police-open-fire-during-gen-z-protest-in-new-baneshwar,Neutral,State Repression,Protestors,Police violence
+3,The Kathmandu Post,National,https://kathmandupost.com/national/2025/09/08/14-killed-as-police-open-fire-on-gen-z-protest-in-baneshwar,Neutral,State Repression,Protestors,Police violence
+4,The Kathmandu Post,National,https://kathmandupost.com/national/2025/10/28/forensic-report-shows-most-protesters-shot-above-the-waist-during-september-clashes,Neutral,State Repression,Government,Police violence
+5,The Kathmandu Post,National,https://kathmandupost.com/national/2025/09/09/gen-z-protests-against-corruption-and-social-media-ban-spread-across-country,Neutral,Law & Order,Both,Both
+6,The Kathmandu Post,National,https://kathmandupost.com/national/2025/09/09/youths-continue-protests-defying-curfew-orders,Neutral,State Repression,Government,Police violence
+7,OnlineKhabar,National,https://english.onlinekhabar.com/gen-z-takes-to-the-streets.html,Positive,Democratic Rights,Protestors,No violence
+
+

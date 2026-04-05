@@ -134,24 +134,28 @@ The analysis of media coverage reveals a clear shift in framing as events unfold
 
 As the situation intensified, the focus moved away from protestor actions toward the role of the state, particularly in terms of use of force. Later reporting further deepened this narrative by incorporating forensic evidence, indicating a transition from descriptive reporting to investigative and accountability-oriented journalism.
 
-### Frame and Attribution of Violence
+### Framing and Attribution of Violence
 
-The expanded dataset reinforces a clear relationship between media framing and attribution of violence. Articles framed within a law-and-order perspective either emphasize protestor violence or present violence as occurring on both sides. In contrast, articles framed in terms of state repression consistently attribute violence to police actions.
+The analysis reveals a strong relationship between media framing and the attribution of violence. Articles framed within a law-and-order perspective either emphasize protestor violence or present violence as occurring on both sides. In contrast, all articles framed as state repression attribute violence exclusively to police actions.
 
-This pattern suggests that framing is closely tied to the assignment of responsibility. Law-and-order framing tends to diffuse or shift responsibility toward protestors, whereas state repression framing concentrates responsibility on state actors. Notably, no article framed as state repression attributes violence to protestors, indicating a strong alignment between this frame and the portrayal of police violence.
+The democratic rights frame differs significantly, as it does not emphasize violence at all, instead focusing on the legitimacy and peaceful nature of the protests. This indicates that framing not only determines who is held responsible for violence but also whether violence is central to the narrative.
 
-Additionally, the presence of mixed attribution in law-and-order frames suggests that this framing allows for more ambiguity in responsibility, whereas state repression framing presents a more definitive narrative of accountability.
+### Tone and Framing
 
-### Tone of Coverage
+Despite variation in framing, the tone of coverage remains largely neutral across all articles. This suggests that differences in media narratives arise not from overt emotional bias but from selective emphasis on specific aspects of events.
 
-Across all analyzed articles, the tone remains neutral, with no overtly positive or negative stance toward either protestors or the state. This suggests that framing differences emerge not through emotional language but through selective emphasis on specific aspects of events, such as protestor actions or state use of force.
+### Variation Across Media Outlets
 
-The analysis further shows that once the framing shifts toward state repression following the occurrence of fatalities, it tends to persist in subsequent coverage. Even in reports focusing on continued protests, the emphasis remains on government actions and police use of force, suggesting that critical events such as deaths create a lasting shift in media narratives.
+The inclusion of OnlineKhabar introduces a democratic rights frame, which contrasts with the conflict-oriented framing observed in The Kathmandu Post. While the latter emphasizes disorder and state violence, OnlineKhabar highlights legitimacy and peaceful participation. This demonstrates that different media outlets construct distinct narratives around the same event.
 
-The findings suggest that media framing is not only responsive to immediate events but also exhibits persistence once a critical threshold, such as fatalities, is reached. Following this shift, subsequent coverage continues to emphasize state actions and police violence, even when reporting on ongoing protests rather than initial incidents.
+### Social Media vs Traditional Media
 
+The comparison between traditional media and social media reveals a significant difference in emotional expression. While traditional media coverage remains largely neutral in tone, social media posts are predominantly negative and highly emotional.
 
-This suggests that framing plays a crucial role in shaping public perception of accountability, influencing whether protestors or the state are seen as responsible for the escalation of violence.
+Most social media posts exhibit strong emotional language, including expressions of anger, urgency, and outrage. In contrast, traditional media maintains a factual tone, with framing differences emerging through selective emphasis rather than emotional intensity.
+
+This suggests that social media amplifies emotional responses to political events, whereas traditional media presents more structured and controlled narratives.
+
 
 ## Discussions  
 

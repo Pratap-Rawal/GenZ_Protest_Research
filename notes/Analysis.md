@@ -136,6 +136,27 @@ Your stages now:
 Reflection:
 The article introduces a broader phase of protest diffusion, where demonstrations spread geographically and involve diverse participants. In this stage, media coverage emphasizes disorder and clashes involving both protestors and police, resulting in a more balanced attribution of violence.
 
+---
+
+🧠 Your dataset now has:
+Frame	Meaning
+Law & Order	Disorder
+State Repression	Violence
+Democratic Rights	Legitimacy
+
+Article 7
+
+Reflection:
+Different media emphasize different dimensions of the same protest:
+- Disorder
+- Violence
+- Legitimacy
+The inclusion of this article introduces a democratic rights frame, which emphasizes the legitimacy and peaceful nature of the protests. Unlike previous articles focused on conflict and violence, this coverage highlights protestors' intentions, social support, and civic responsibility, suggesting that media narratives can also construct protests as legitimate democratic expressions.
+
+Media coverage is dominated by conflict-related frames (repression + order), but includes a smaller legitimacy-based narrative (democratic rights).
+
+Media appears neutral in tone, but not neutral in framing.
+
 
 
 ### Python file Analysis
@@ -199,3 +220,77 @@ So ask:
 - What is emphasized most?
 - Who is blamed?
 - What is the tone?
+
+
+After inclusion of 7th article
+A. FRAME STRUCTURE (VERY IMPORTANT)
+Frame	Count
+State Repression	4
+Law & Order	2
+Democratic Rights	1
+🔍 Meaning:
+Media coverage is dominated by conflict-related frames (repression + order),
+but includes a smaller legitimacy-based narrative (democratic rights).
+
+B. TONE (VERY INTERESTING)
+Tone	Count
+Neutral	6
+Positive	1
+🔍 Meaning:
+Media appears neutral in tone, but not neutral in framing.
+
+👉 This is a very strong academic insight
+
+🧠 C. VIOLENCE ATTRIBUTION
+Violence	Count
+Police	4
+Protestor	1
+Both	1
+No violence	1
+🔍 Meaning:
+Coverage overall leans toward attributing violence to police.
+🔥 D. MOST IMPORTANT RESULT (CROSS ANALYSIS)
+
+Now your full table:
+
+🔹 Law & Order
+Protestor violence
+Both
+
+👉 Meaning:
+
+Responsibility is shared or shifted toward protestors
+🔹 State Repression
+Police violence ONLY
+
+👉 Meaning:
+
+Clear assignment of responsibility to state
+🔹 Democratic Rights
+No violence
+
+👉 Meaning:
+
+Violence is not central → legitimacy is central
+🧠 CORE THEORETICAL FINDING
+Framing determines whether violence is:
+- Highlighted
+- Assigned
+- Or ignored
+✍️ FINAL FINDINGS (UPGRADE YOUR PAPER)
+
+Replace your findings with this stronger version:
+
+### Framing and Attribution of Violence
+
+The analysis reveals a strong relationship between media framing and the attribution of violence. Articles framed within a law-and-order perspective either emphasize protestor violence or present violence as occurring on both sides. In contrast, all articles framed as state repression attribute violence exclusively to police actions.
+
+The democratic rights frame differs significantly, as it does not emphasize violence at all, instead focusing on the legitimacy and peaceful nature of the protests. This indicates that framing not only determines who is held responsible for violence but also whether violence is central to the narrative.
+
+### Tone and Framing
+
+Despite variation in framing, the tone of coverage remains largely neutral across all articles. This suggests that differences in media narratives arise not from overt emotional bias but from selective emphasis on specific aspects of events.
+
+### Variation Across Media Outlets
+
+The inclusion of OnlineKhabar introduces a democratic rights frame, which contrasts with the conflict-oriented framing observed in The Kathmandu Post. While the latter emphasizes disorder and state violence, OnlineKhabar highlights legitimacy and peaceful participation. This demonstrates that different media outlets construct distinct narratives around the same event.
