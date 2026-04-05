@@ -1,3 +1,6 @@
+# Media Framing of the 2025 Gen Z Protests in Nepal
+
+
 ## Introduction
 
 The 2025 Gen Z protests in Nepal represent a significant moment of youth-led political mobilization. Triggered by concerns over corruption and government regulation of social media, the protests quickly escalated into large-scale demonstrations across the country.
