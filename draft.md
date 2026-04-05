@@ -136,7 +136,20 @@ As the situation intensified, the focus moved away from protestor actions toward
 
 ### Frame and Attribution of Violence
 
-The analysis reveals a clear relationship between media framing and attribution of violence. Articles framed within a law-and-order perspective emphasize protestor violence, portraying protestors as the primary source of disorder. In contrast, articles framed in terms of state repression consistently highlight police violence, shifting responsibility toward state actors.
+The expanded dataset reinforces a clear relationship between media framing and attribution of violence. Articles framed within a law-and-order perspective either emphasize protestor violence or present violence as occurring on both sides. In contrast, articles framed in terms of state repression consistently attribute violence to police actions.
+
+This pattern suggests that framing is closely tied to the assignment of responsibility. Law-and-order framing tends to diffuse or shift responsibility toward protestors, whereas state repression framing concentrates responsibility on state actors. Notably, no article framed as state repression attributes violence to protestors, indicating a strong alignment between this frame and the portrayal of police violence.
+
+Additionally, the presence of mixed attribution in law-and-order frames suggests that this framing allows for more ambiguity in responsibility, whereas state repression framing presents a more definitive narrative of accountability.
+
+### Tone of Coverage
+
+Across all analyzed articles, the tone remains neutral, with no overtly positive or negative stance toward either protestors or the state. This suggests that framing differences emerge not through emotional language but through selective emphasis on specific aspects of events, such as protestor actions or state use of force.
+
+The analysis further shows that once the framing shifts toward state repression following the occurrence of fatalities, it tends to persist in subsequent coverage. Even in reports focusing on continued protests, the emphasis remains on government actions and police use of force, suggesting that critical events such as deaths create a lasting shift in media narratives.
+
+The findings suggest that media framing is not only responsive to immediate events but also exhibits persistence once a critical threshold, such as fatalities, is reached. Following this shift, subsequent coverage continues to emphasize state actions and police violence, even when reporting on ongoing protests rather than initial incidents.
+
 
 This suggests that framing plays a crucial role in shaping public perception of accountability, influencing whether protestors or the state are seen as responsible for the escalation of violence.
 

@@ -25,7 +25,7 @@ source: https://kathmandupost.com/national/2025/09/08/one-dead-as-police-open-fi
 - Tone -> Neutral (No strong bias)
 - Frame -> State Repression (Focus on death of protestors)
 - Focus -> Protestors (Number of casualities and injuries)
-- Violence -> Emphais on police violence 
+- Violence -> Emphasis on police violence 
 ---
 
 ## Article 3 - The Kathmandu Post
@@ -39,7 +39,7 @@ Police used water cannons, tear gas, and live ammunition against protestors. Dem
 - Tone -> Neutral (No strong bias)
 - Frame -> State Repression (Focus on death of protestors)
 - Focus -> Protestors ( Number of casualities and injuries)
-- Violence -> Emphais on police violence 
+- Violence -> Emphasis on police violence 
 
 ### Reflection based on first three articles from same news paper:  
 
@@ -61,7 +61,7 @@ The article presents findings from a forensic report indicating that most protes
 - Tone -> Neutral (No strong bias) 
 - Frame -> State Repression (Focus on death of protestors) 
 - Focus -> Police action (Casualities and excessive use of force) 
-- Violence -> Emphais on police violence
+- Violence -> Emphasis on police violence
 
 ---
 
@@ -70,3 +70,40 @@ The article presents findings from a forensic report indicating that most protes
 Event → Reaction → Casualties → Accountability
 
 *The later stage of reporting introduces a deeper layer of framing, moving beyond reporting deaths to examining evidence of how force was used. This reflects a shift from immediate event coverage to accountability-focused reporting.*
+
+---
+
+## Article 5 - The Kathmandu Post 
+source: 
+https://kathmandupost.com/national/2025/09/09/gen-z-protests-against-corruption-and-social-media-ban-spread-across-country
+
+**Headline:** Gen Z protests against corruption and social media ban spread across country
+
+
+**Summary:** 
+The article highlights the protests in major locations across the country. Most protests gained momentum after the school time. In some places, teachers, and even some local residents participated. Protestors in many towns were divided into two distinct groups, one which was more aggressive which engaged in stone pelting, and vandalizing the properties. Security personnels tried to maintain peace. While police fired tear gas shells rumours were that bullet hit the demonstrators. In sunsari and jhapa, when the police was unable to control the violent crowd with water guns, rubber  bullets, live bullets were fires killing demosntrators. both police and demonstrators were injured in the clashes.
+
+**My Coding Reasoning:** 
+- Tone -> Neutral (No strong bias) 
+- Frame -> Law & Order (Focus is on spread of protests & clashes/disorder) 
+- Focus -> Both (Both sides are visible) 
+- Violence -> Both. (Violence of both sides is elaborated)
+
+---
+
+## Article 6 - The Kathmandu Post 
+source: 
+https://kathmandupost.com/national/2025/09/09/youths-continue-protests-defying-curfew-orders
+
+**Headline:** Youths continue protests defying curfew orders
+
+**Summary:** 
+Even though curfew is imposed by the adminstration, youth continue to protest at several locations in Kathmandu valley on Tuesday, Sept 9, 2025. Excessive use of force by the police and government suppression highlighted. Government action is criticised by leaders both from ruling and opposition parties are reported to criticise the government actions.
+
+**My Coding Reasoning:** 
+- Tone -> Neutral (No strong bias) 
+- Frame -> State Repression (Emphasis on government suppression and use of force. ) 
+- Focus -> Government (emphaises government actions- curfew, suppression, political criticiem) 
+- Violence -> Emphasis on police violence. (Violence of police is described including the use of excessive force, casualities, and prior events.)
+
+---

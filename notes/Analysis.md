@@ -113,6 +113,28 @@ Article 2 → Death
 Article 3 → Scale of death
 Article 4 → Forensic evidence
 
+#### Pattern 5: (5th article)
+VERY IMPORTANT INSIGHT (NEW PATTERN)
+Now your dataset evolves:
+Frame -->	Violence
+Law & Order -->	Protestor / Both
+State Repression -->	Police
+
+NEW DISCOVERY
+👉 Not just a binary anymore
+
+Law & Order → Protestor OR mixed responsibility  
+State Repression → Police responsibility
+
+Your stages now:
+1. Clash  
+2. First death  
+3. Mass deaths  
+4. Forensic (accountability)  
+5. Spread of protests (diffusion)
+
+Reflection:
+The article introduces a broader phase of protest diffusion, where demonstrations spread geographically and involve diverse participants. In this stage, media coverage emphasizes disorder and clashes involving both protestors and police, resulting in a more balanced attribution of violence.
 
 
 
@@ -152,4 +174,28 @@ You now have:
 
 
 ---
+Search trick usedL
+site:kathmandupost.com protest continues Kathmandu Gen Z
+site:kathmandupost.com Baneshwar protest curfew
 
+TYPE A: AFTERMATH / RESPONSE
+Look for:
+
+“government says…”
+“investigation ordered…”
+“official response…”
+
+TYPE B: PROTEST CONTINUES
+Look for:
+
+“protests spread…”
+“curfew imposed…”
+“demonstrations continue…”
+
+**These new articles may:**
+👉 Not be as clear as earlier ones
+So ask:
+
+- What is emphasized most?
+- Who is blamed?
+- What is the tone?
