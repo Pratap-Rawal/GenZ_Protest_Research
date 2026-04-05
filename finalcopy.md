@@ -1,3 +1,9 @@
+---
+title: "Media Framing of Gen Z Protests in Nepal"
+author: "Pratap Rawal"
+date: "2026"
+---
+
 # Media Framing of the 2025 Gen Z Protests in Nepal
 
 
